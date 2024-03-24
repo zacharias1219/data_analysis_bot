@@ -1,0 +1,4 @@
+langchain
+streamlit
+chromadb
+langchain_google_genai
